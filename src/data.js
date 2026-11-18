@@ -165,7 +165,7 @@ export const experiencias = [
 ];
 
 export const stack = [
-  { grupo: "Back-end", itens: ["Python", "Django", "Django REST Framework", "PHP"] },
+  { grupo: "Back-end", itens: ["Python", "Django", "Django REST Framework", "Node.js", "PHP"] },
   { grupo: "Front-end", itens: ["React", "TypeScript", "JavaScript", "Vite", "Tailwind CSS", "HTML/CSS"] },
   { grupo: "Banco de dados", itens: ["SQL", "PostgreSQL", "MySQL"] },
   { grupo: "DevOps e ferramentas", itens: ["Docker", "Git", "GitHub", "CI/CD"] },
